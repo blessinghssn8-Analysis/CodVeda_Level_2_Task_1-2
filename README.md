@@ -41,16 +41,16 @@ The objectives of this project are:
 
 The analysis followed a structured workflow:
 
-1. Load and inspect dataset  
-2. Handle missing values  
-3. Convert Date column to datetime format  
-4. Sort data chronologically  
-5. Select features (Open as predictor, Close as target)  
-6. Split data into training and testing sets (80/20)  
-7. Train Linear Regression model  
-8. Evaluate model using R² and MSE  
-9. Perform time series decomposition (trend, seasonality, residuals)  
-10. Apply rolling mean smoothing (7-day and 30-day windows)  
+1. Dataset inspection  
+2. Handled missing values  
+3. Converted Date column to datetime format  
+4. Sorted data chronologically  
+5. Selected features (Open as predictor, Close as target)  
+6. Splited data into training and testing sets (80/20)  
+7. Trained Linear Regression model  
+8. Evaluated model using R² and MSE  
+9. Performed time series decomposition (trend, seasonality, residuals)  
+10. Applied rolling mean smoothing (7-day and 30-day windows)  
 
 ## Results
 
